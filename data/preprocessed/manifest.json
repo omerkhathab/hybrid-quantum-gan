@@ -1,0 +1,26 @@
+{
+  "PC9": {
+    "graph_count": 99234,
+    "source_count": 99234,
+    "sample_sources": [
+      "data/raw/Archive/pc9/PC9_data/PC9_data/XYZ/000000004.xyz",
+      "data/raw/Archive/pc9/PC9_data/PC9_data/XYZ/000000022.xyz",
+      "data/raw/Archive/pc9/PC9_data/PC9_data/XYZ/000000029.xyz",
+      "data/raw/Archive/pc9/PC9_data/PC9_data/XYZ/000000039.xyz",
+      "data/raw/Archive/pc9/PC9_data/PC9_data/XYZ/000000045.xyz"
+    ],
+    "pickle": "data/preprocessed/PC9/graphs.pkl"
+  },
+  "QM9": {
+    "graph_count": 267456,
+    "source_count": 267770,
+    "sample_sources": [
+      "data/raw/Archive/qm9/dsgdb9nsd.xyz/dsgdb9nsd_000001.xyz",
+      "data/raw/Archive/qm9/dsgdb9nsd.xyz/dsgdb9nsd_000002.xyz",
+      "data/raw/Archive/qm9/dsgdb9nsd.xyz/dsgdb9nsd_000003.xyz",
+      "data/raw/Archive/qm9/dsgdb9nsd.xyz/dsgdb9nsd_000004.xyz",
+      "data/raw/Archive/qm9/dsgdb9nsd.xyz/dsgdb9nsd_000005.xyz"
+    ],
+    "pickle": "data/preprocessed/QM9/graphs.pkl"
+  }
+}
